@@ -16,21 +16,25 @@ Next you will want to create your own [github](https://github.com/join?ref_cta=S
 
 ### Git
 
-In addition you will want to download [git](https://git-scm.com/downloads). Git is a create tool and used by all developers to save, update, and share code with themselves and in teams.
+In addition you will want to download [git](https://git-scm.com/downloads). Git is a great tool and used by all developers to save, update, and share code with themselves and in teams.
 This is a useful [tutorial](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/) if you want to learn the basics, but I will let you know the commands you will need for this bootcamp.
 
 To download this repo and all of its code you will run the command:
 
 `git clone https://github.com/anovis/bootcamp.git`
 
-This downloads the code to your computer. If there are updates you can just run the command
+This downloads the code to your computer. If there are updates, you can just run the command
 
 `git pull` to get the latest code.
 
-To create a new repo go to github and click the button `add repository` and follow the steps there.
+To create a new repo for youself to save your code as you go along go to github and click the button `add repository` and follow the steps there.
 
-The command you will need to know are `git commit -a -m "THIS IS A MESSAGE ABOUT THE CHANGES YOU MADE"` which saves you code.
+Useful commands you will need to know are `git commit -a -m "THIS IS A MESSAGE ABOUT THE CHANGES YOU MADE"` which saves you code. Replace the all caps section with a message about the code changes you made.
 
-`git push` will upload your changes to github.
+After running the commit command run `git push`, which will upload your changes to github.
 
-Thats it you are ready to go. Check out the language you want to learn. If you have any questions feel free to post [here](`https://github.com/anovis/bootcamp/issues`)
+Thats it, you are ready to go. Check out the language you want to learn by clicking into the desired folder. If you have any questions feel free to post [here](`https://github.com/anovis/bootcamp/issues`)
+
+### Resources
+
+If you habe a questio, one of the best resources out there is [stackoverflow](https://stackoverflow.com/), which is the most popular Q&A site. Chances are someone else has run into the same error or problem and posted the question there, with many others providing answers. Most professional coders still spend a lot of time on stackoverflow, but the difference is with time you will become better at finding the right question to ask.
