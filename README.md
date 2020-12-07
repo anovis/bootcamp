@@ -37,4 +37,4 @@ Thats it, you are ready to go. Check out the language you want to learn by click
 
 ### Resources
 
-If you habe a questio, one of the best resources out there is [stackoverflow](https://stackoverflow.com/), which is the most popular Q&A site. Chances are someone else has run into the same error or problem and posted the question there, with many others providing answers. Most professional coders still spend a lot of time on stackoverflow, but the difference is with time you will become better at finding the right question to ask.
+If you have a question, one of the best resources out there is [stackoverflow](https://stackoverflow.com/), which is the most popular Q&A site. Chances are someone else has run into the same error or problem and posted the question there, with many others providing answers. Most professional coders still spend a lot of time on stackoverflow, but the difference is with time you will become better at finding the right question to ask.
